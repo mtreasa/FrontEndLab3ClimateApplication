@@ -1,0 +1,20 @@
+{
+  "name": "front-end-lab-3",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "weather-api-test.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": [],
+  "description": ""
+}
